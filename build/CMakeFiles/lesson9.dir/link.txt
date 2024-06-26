@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/lesson9.dir/main.cpp.o -o lesson9 
